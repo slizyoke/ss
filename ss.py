@@ -18,7 +18,7 @@
 from html import escape as esc
 import requests
 import math
-import lxml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET
 import sys
 from termcolor import colored, cprint
 from time import sleep
